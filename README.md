@@ -4,9 +4,9 @@ Die Colab-Notizbücher zu den Programmierseiten des Buchs. Klicke auf einen Link
 
 | Seite | Notizbuch |
 |---|---|
-| Python-Grundlagen | [In Colab öffnen](https://colab.research.google.com/github/MFHSchool-Services/wiw-ki/blob/main/DS26_Python_Grundlagen.ipynb) |
-| Bau dein eigenes Netz | [In Colab öffnen](https://colab.research.google.com/github/MFHSchool-Services/wiw-ki/blob/main/DS27_Eigenes_Netz.ipynb) |
-| Eine vortrainierte KI nutzen | [In Colab öffnen](https://colab.research.google.com/github/MFHSchool-Services/wiw-ki/blob/main/DS28_Vortrainierte_KI_nutzen.ipynb) |
-| Der KI Neues beibringen | [In Colab öffnen](https://colab.research.google.com/github/MFHSchool-Services/wiw-ki/blob/main/DS29_KI_anpassen.ipynb) |
+| Python-Grundlagen | [In Colab öffnen](https://colab.research.google.com/github/hacker-school-services/wiw-ki/blob/main/DS26_Python_Grundlagen.ipynb) |
+| Bau dein eigenes Netz | [In Colab öffnen](https://colab.research.google.com/github/hacker-school-services/wiw-ki/blob/main/DS27_Eigenes_Netz.ipynb) |
+| Eine vortrainierte KI nutzen | [In Colab öffnen](https://colab.research.google.com/github/hacker-school-services/wiw-ki/blob/main/DS28_Vortrainierte_KI_nutzen.ipynb) |
+| Der KI Neues beibringen | [In Colab öffnen](https://colab.research.google.com/github/hacker-school-services/wiw-ki/blob/main/DS29_KI_anpassen.ipynb) |
 
 Du kannst alles ändern und ausprobieren. Wenn du deine Änderungen behalten willst, wähle in Colab *Datei → Kopie in Drive speichern*.
